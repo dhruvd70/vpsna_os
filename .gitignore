@@ -1,0 +1,26 @@
+# Build directory
+/build/
+
+# Object files, binaries, hex, elf
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.d
+
+# Backup files
+*~
+*.swp
+*.swo
+*.bkp
+
+# IDE/editor settings
+.vscode/
+*.code-workspace
+
+
+# Other temporary files
+*.log
+*.gdb*
